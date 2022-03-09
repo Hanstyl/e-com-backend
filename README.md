@@ -21,8 +21,12 @@
 
   This is what it will look like on your device.
 
+  ![Screen Shot 2022-03-08 at 9 58 49 PM](https://user-images.githubusercontent.com/79775889/157376107-b3365f30-4efc-4b2c-b07b-f4fa5e75ff58.png)
   
+  ![Screen Shot 2022-03-08 at 9 57 26 PM](https://user-images.githubusercontent.com/79775889/157376119-20510e4b-ddda-438d-81bd-7f13004fc8d6.png)
 
+  LINK TO DEMO VIDEO - https://drive.google.com/file/d/1yB_Ro-qqVelAMjys-5sCRAjS4ixqFesN/view
+  
   ## Contributors
 
   Nathan Nelson  && Starter code was provided by coding boot camp
